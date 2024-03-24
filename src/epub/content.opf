@@ -47,7 +47,7 @@
 		<meta id="collection-1" property="belongs-to-collection">The Hardy Boys</meta>
 		<meta property="collection-type" refines="#collection-1">series</meta>
 		<meta property="group-position" refines="#collection-1">3</meta>
-		<dc:description id="description">The city of Bayport is being held hostage by a ring of counterfiters! With such fine replications of the money, many citizens are falling prey to fake bills. The police are out of their depths, but the Hardy boys are on the case.</dc:description>
+		<dc:description id="description">The police are out of their depths as counterfit bills circulate through Bayport, but the Hardy boys are on the case.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			&lt;p&gt;During a hike of the countryside, the Hardy boys and their pals learn that the previously abandoned mill has recently gotten new owners. Claiming to be producing a new breakfast food, the new occupants field a few questions and then shoo the boys away. But it’s enough to make the Hardy boys suspicious. Are the men to be trusted? Are they merely surly scientists, or are they covering up a darker secret?&lt;/p&gt;
 			&lt;p&gt;This is the third book of the Hardy boys series, first published in 1927. It was rewritten in 1962; this Standard Ebook contains the original 1927 text.&lt;/p&gt;
