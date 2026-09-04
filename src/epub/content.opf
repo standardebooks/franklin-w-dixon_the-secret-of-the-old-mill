@@ -30,10 +30,10 @@
 		<meta property="schema:accessibilitySummary">This publication conforms to WCAG 2.2 Level AA.</meta>
 		<dc:title id="title">The Secret of the Old Mill</dc:title>
 		<meta property="file-as" refines="#title">Secret of the Old Mill, The</meta>
-		<dc:subject id="subject-1">Brothers -- Juvenile fiction</dc:subject>
+		<dc:subject id="subject-1">Brothers--Juvenile fiction</dc:subject>
 		<dc:subject id="subject-2">Mystery and detective stories</dc:subject>
-		<dc:subject id="subject-3">Counterfeits and counterfeiting -- Juvenile fiction</dc:subject>
-		<dc:subject id="subject-4">Hardy Boys (Fictitious characters) -- Juvenile fiction</dc:subject>
+		<dc:subject id="subject-3">Counterfeits and counterfeiting--Juvenile fiction</dc:subject>
+		<dc:subject id="subject-4">Hardy Boys (Fictitious characters)--Juvenile fiction</dc:subject>
 		<meta property="authority" refines="#subject-1">LCSH</meta>
 		<meta property="term" refines="#subject-1">sh2009116961</meta>
 		<meta property="authority" refines="#subject-2">LCSH</meta>
