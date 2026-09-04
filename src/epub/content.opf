@@ -65,13 +65,14 @@
 		<link href="https://github.com/standardebooks/franklin-w-dixon_the-secret-of-the-old-mill" refines="#vcs-repository" rel="schema:codeRepository"/>
 		<dc:creator id="author">Franklin W. Dixon</dc:creator>
 		<meta property="file-as" refines="#author">Dixon, Franklin W.</meta>
-		<link href="https://en.wikipedia.org/wiki/Franklin_W_Dixon" refines="#author" rel="schema:sameAs"/>
+		<link href="https://en.wikipedia.org/wiki/Franklin_W._Dixon" refines="#author" rel="schema:sameAs"/>
 		<link href="https://id.loc.gov/authorities/names/n80125961.html" refines="#author" rel="schema:sameAs"/>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
 		<dc:contributor id="artist">Walter S. Rogers</dc:contributor>
-		<meta property="schema:alternateName" refines="#artist">Walter Stanton Rogers</meta>
 		<meta property="file-as" refines="#artist">Rogers, Walter S.</meta>
+		<meta property="schema:alternateName" refines="#artist">Walter Stanton Rogers</meta>
 		<link href="https://en.wikipedia.org/wiki/Walter_S._Rogers" refines="#artist" rel="schema:sameAs"/>
+		<link href="https://id.loc.gov/authorities/names/no2011171107.html" refines="#artist" rel="schema:sameAs"/>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
 		<dc:contributor id="transcriber-1">Greg Weeks</dc:contributor>
 		<meta property="file-as" refines="#transcriber-1">Weeks, Greg</meta>
